@@ -12,5 +12,5 @@ A Tool written in python to solve Sudoku. It does the following tasks :
 ### Setup
 * You need to install the required libaraies and python.
 * Clone repository 
-* Run Sudoku solver : `python sudoku_solver.py
+* Run Sudoku solver : `python sudoku_solver.py`
 
