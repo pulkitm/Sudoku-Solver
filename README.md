@@ -14,3 +14,10 @@ A Tool written in python to solve Sudoku. It does the following tasks :
 * Clone repository 
 * Run Sudoku solver : `python sudoku_solver.py`
 
+### Sample Input
+
+<img src="https://github.com/pulkitm/Sudoku-Solver/blob/master/sample_inputs/in1.jpg" width="500" height="500" />
+
+### Sample Output
+
+<img src="https://github.com/pulkitm/Sudoku-Solver/blob/master/sample_outputs/out1.jpg" width="400" height="400" />
