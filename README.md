@@ -3,7 +3,7 @@ A Tool written in python to solve Sudoku. It does the following tasks :
 * Detect Sudoku grid on input image.
 * Performs digit recognition on sudoku grid using KNN.
 * Solves the sudoku using backtracking.
-* Outputs the solution if found.
+* Outputs the solution if exists.
 
 ### Tech details
 * Language - Python
