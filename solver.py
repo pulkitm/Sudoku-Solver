@@ -1,6 +1,6 @@
 # Solves the sudoku given as list of list of integers.
 # Returns None if solution does not exists.
-# Uses Backtavking technique to solve.
+# Uses Backtracking technique to solve.
 
 #Infers box index from given indices
 def gi(i,j):
